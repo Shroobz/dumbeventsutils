@@ -57,6 +57,8 @@ public class dumbeventsutilsClient implements ClientModInitializer {
         DeathRun.init("dumbeventsutils:isthatasansundertalereferenceinthebig2025", "deathrun", 315);
         CustomSound Avalanche = new CustomSound();
         Avalanche.init("dumbeventsutils:yetuman", "avalanche", 155);
+        CustomSound IceBoat = new CustomSound();
+        IceBoat.init("dumbeventsutils:stormsand", "iceboatracing", 232);
 
 
         System.out.println("sigma???");

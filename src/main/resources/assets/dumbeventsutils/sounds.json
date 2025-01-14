@@ -28,5 +28,10 @@
     "sounds": [
       "dumbeventsutils:yetuman"
     ]
+  },
+  "stormsand": {
+    "sounds": {
+      "dumbeventsutils:stormsand"
+    }
   }
 }
