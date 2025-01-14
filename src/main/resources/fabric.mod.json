@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "dumbeventsutils",
+  "version": "${version}",
+  "name": "dumbeventsutils",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/dumbeventsutils/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "Klyrithon.dumbeventsutils.client.dumbeventsutilsClient"
+    ],
+    "main": [
+      "Klyrithon.dumbeventsutils.dumbeventsutils"
+    ]
+  },
+  "mixins": [
+    "dumbeventsutils.mixins.json",
+    {
+      "config": "dumbeventsutils.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SigmaGG.client.iml" filepath="$PROJECT_DIR$/.idea/modules/SigmaGG.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SigmaGG.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SigmaGG.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SigmaGG.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SigmaGG.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dumbeventsutils.client.iml" filepath="$PROJECT_DIR$/.idea/modules/dumbeventsutils.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dumbeventsutils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dumbeventsutils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dumbeventsutils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dumbeventsutils.test.iml" />
+    </modules>
+  </component>
+</project>
